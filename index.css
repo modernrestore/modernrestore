@@ -62,3 +62,7 @@ footer p {
 .container {
     padding: 0px 50px;
 }
+
+nav a:hover {
+color: red;
+}
