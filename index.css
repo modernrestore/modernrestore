@@ -17,7 +17,7 @@ a{
     text-decoration: none;
 }
 
-img{
+header img{
     width: 150px;
     height: 150px;
     border-radius: 50%;
@@ -34,4 +34,4 @@ h1{
 
 h2{
     color: white;
-}
+} 
